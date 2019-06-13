@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(205, 255, 255);
+}
+
+section{
+    text-align: left;
+    width: 30%;
+
+}
+
+
+h1{
+  
+    position: absolute;
+    font-size: 25px;
+    color: rgb(180, 180, 180);
+   
+}
+
+h2{
+
+    font-size: 35px;
+
+}
+div ul{
+    float: left;
+    list-style: none;
+}
+
+div ul img{
+
+    width: 35px;
+    height: 60px;
+
+
+}
+li{
+    padding-bottom: 10px;
+    font-size: 35px;
+    
+}
+
+#score{
+  
+    left: 635px;
+    top:  15px;    
+}
+
+#recorde{
+    left: 955px;
+    top: 15px; 
+
+}
