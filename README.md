@@ -9,3 +9,6 @@ para a esquerda, para a direita, para cima e para baixo. Os inimigos se movem
 em velocidades variáveis na parte do bloco pavimentado da cena. Uma vez que o
 jogador colide com um inimigo, o jogo é reiniciado e o jogador volta para o
 quadrado inicial. Quando o jogador atinge a água, o jogo é ganho.
+
+
+<img src="images/layout.jpg">
